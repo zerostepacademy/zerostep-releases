@@ -1,0 +1,6 @@
+{
+ "version": "0.26.0",
+ "date": "2026-11-05",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.26.0",
+ "notes": "**Aktualizacje**: Draw sam sprawdza przy starcie i co 6 godzin, czy jest nowa wersja (tylko odczyt małego pliku draw.json z publicznego repo wydań — nic nie wysyłamy). Gdy jest — okienko w rogu: co nowego, jak zainstalować, „Pobierz” (strona wydania) albo „Później” (cisza na 3 dni dla tej wersji). Ustawienia → Aktualizacje → „Sprawdź teraz”. Publikacja: `bash publish.sh` (jak w Scoucie i Filmie).\n**Przygotowanie do meczu**: w Game planie pasek z tym, co jeszcze uzupełnić dla przeciwnika — Data meczu, Zawodnicy (min. 5), Statystyki, Playbook przeciwnika, Klucze do meczu (np. 2 / 5); klik = przejście tam, gotowe = ✓. Znika, gdy wszystko gotowe, albo po ✕ (dla tego przeciwnika)."
+}
