@@ -1,6 +1,6 @@
 {
- "version": "1.6.37",
+ "version": "1.6.38",
  "date": "2026-11-12",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.37",
- "notes": "Pierwsza wersja beta. Aktywacja osobistym kluczem ZeroStep (jeden komputer, Scout + Film + Draw), ważność licencji w oknie Pomoc, przycisk „Zgłoś błąd” ze zrzutem ekranu i do 3 zdjęć, raporty i wydruki z oznaczeniem beta."
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.38",
+ "notes": "Poprawki po audycie bezpieczeństwa i stabilności. Cofnięcie zmiany i zejścia (⌘Z) przywraca minuty zawodnika i liczenie piątki; poprawka czasu na zegarze w trakcie meczu nie zmienia długości kolejnych kwart; aplikacja otworzy się ponownie w trakcie meczu bez internetu."
 }
