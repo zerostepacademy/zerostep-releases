@@ -1,6 +1,6 @@
 {
- "version": "0.26.0",
- "date": "2026-11-05",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.26.0",
- "notes": "**Aktualizacje**: Draw sam sprawdza przy starcie i co 6 godzin, czy jest nowa wersja (tylko odczyt małego pliku draw.json z publicznego repo wydań — nic nie wysyłamy). Gdy jest — okienko w rogu: co nowego, jak zainstalować, „Pobierz” (strona wydania) albo „Później” (cisza na 3 dni dla tej wersji). Ustawienia → Aktualizacje → „Sprawdź teraz”. Publikacja: `bash publish.sh` (jak w Scoucie i Filmie).\n**Przygotowanie do meczu**: w Game planie pasek z tym, co jeszcze uzupełnić dla przeciwnika — Data meczu, Zawodnicy (min. 5), Statystyki, Playbook przeciwnika, Klucze do meczu (np. 2 / 5); klik = przejście tam, gotowe = ✓. Znika, gdy wszystko gotowe, albo po ✕ (dla tego przeciwnika)."
+ "version": "0.28.3",
+ "date": "2026-11-12",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.3",
+ "notes": "**Klucz „sztab”** (`node tools/zs-license.js new \"Imię Nazwisko\" \"Klub\" 400 --sztab`, w kluczu `o: 2`): dla ludzi z własnego klubu — bez znaku wodnego, w Pomocy / Ustawieniach „Licencja: Klub · Imię Nazwisko · ważna do …”. Blokada w panelu jak przy każdym kluczu.\n**Licencja w Pomocy / Ustawieniach:** pod numerem wersji linia „Licencja beta #3 · Imię Nazwisko · Klub · ważna do 12.12.2026 (zostało 30 dni)” (Scout: okno Pomoc; Film: Ustawienia → Pomoc techniczna; Draw: Ustawienia → Pomoc techniczna). Klucz właściciela: „Licencja: właściciel · ważna do …” — bez słowa beta. Wersja bez licencji — nic. PL/EN (`licText` we wspólnym `license.js`)."
 }
