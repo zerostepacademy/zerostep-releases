@@ -1,6 +1,6 @@
 {
- "version": "1.7.22",
+ "version": "1.7.25",
  "date": "2026-11-13",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.22",
- "notes": "Poprawki po audycie bezpieczeństwa. Raport błędu bez internetu trafia na widoczny Pulpit także przy OneDrive (Windows); foldery eksportu z kropką na końcu nazwy działają na Windows; aplikacja otworzy się ponownie w trakcie meczu bez internetu."
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.25",
+ "notes": "Windows: Film otwiera się zmaksymalizowany (mieści się na małym laptopie), a Ctrl+R nie przeładowuje już okna w trakcie pracy."
 }
