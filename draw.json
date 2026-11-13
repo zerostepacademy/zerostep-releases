@@ -1,6 +1,6 @@
 {
- "version": "0.28.3",
- "date": "2026-11-12",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.3",
- "notes": "Pierwsza wersja beta. Aktywacja osobistym kluczem ZeroStep (jeden komputer, Scout + Film + Draw), ważność licencji w Ustawieniach → Pomoc techniczna, przycisk „Zgłoś błąd” ze zrzutem ekranu i do 3 zdjęć, raporty i wydruki z oznaczeniem beta."
+ "version": "0.28.5",
+ "date": "2026-11-13",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.5",
+ "notes": "Windows: Draw otwiera się zmaksymalizowany (mieści się na małym laptopie), a Ctrl+R nie przeładowuje już okna w trakcie pracy."
 }
