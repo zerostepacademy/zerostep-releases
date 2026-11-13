@@ -1,6 +1,6 @@
 {
- "version": "1.7.21",
- "date": "2026-11-12",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.21",
- "notes": "Pierwsza wersja beta. Aktywacja osobistym kluczem ZeroStep (jeden komputer, Scout + Film + Draw), ważność licencji w Ustawieniach → Pomoc techniczna, przycisk „Zgłoś błąd” ze zrzutem ekranu i do 3 zdjęć, raporty i wydruki z oznaczeniem beta."
+ "version": "1.7.22",
+ "date": "2026-11-13",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.22",
+ "notes": "Poprawki po audycie bezpieczeństwa. Raport błędu bez internetu trafia na widoczny Pulpit także przy OneDrive (Windows); foldery eksportu z kropką na końcu nazwy działają na Windows; aplikacja otworzy się ponownie w trakcie meczu bez internetu."
 }
