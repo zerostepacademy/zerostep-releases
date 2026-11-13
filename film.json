@@ -1,6 +1,6 @@
 {
- "version": "1.7.25",
+ "version": "1.7.26",
  "date": "2026-11-13",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.25",
- "notes": "Windows: Film otwiera się zmaksymalizowany (mieści się na małym laptopie), a Ctrl+R nie przeładowuje już okna w trakcie pracy."
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.26",
+ "notes": "Windows: eksport klipów, pakietów i montaży używa teraz kodera wideo systemu (szybciej). Wymiana wbudowanego programu do wideo (ffmpeg) na wersję z właściwą licencją; w Ustawieniach → Pomoc techniczna → „Licencje” widać, jaka wersja działa."
 }
