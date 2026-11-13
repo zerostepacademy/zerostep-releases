@@ -1,6 +1,6 @@
 {
- "version": "1.6.38",
- "date": "2026-11-12",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.38",
- "notes": "Poprawki po audycie bezpieczeństwa i stabilności. Cofnięcie zmiany i zejścia (⌘Z) przywraca minuty zawodnika i liczenie piątki; poprawka czasu na zegarze w trakcie meczu nie zmienia długości kolejnych kwart; aplikacja otworzy się ponownie w trakcie meczu bez internetu."
+ "version": "1.6.39",
+ "date": "2026-11-13",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.39",
+ "notes": "Przy starcie Scout sprawdza, czy może zapisywać dane w Dokumentach. Jeśli folder jest zablokowany, od razu pokazuje ostrzeżenie — nie dopiero po meczu."
 }
