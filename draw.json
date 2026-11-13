@@ -1,6 +1,6 @@
 {
- "version": "0.28.5",
+ "version": "0.28.8",
  "date": "2026-11-13",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.5",
- "notes": "Windows: Draw otwiera się zmaksymalizowany (mieści się na małym laptopie), a Ctrl+R nie przeładowuje już okna w trakcie pracy."
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.8",
+ "notes": "Aktualizacja jednym kliknięciem: przycisk przy nowej wersji sam pobiera właściwą wersję (Mac albo Windows), instaluje ją i uruchamia aplikację ponownie — bez wchodzenia na GitHuba."
 }
