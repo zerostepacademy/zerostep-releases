@@ -1,6 +1,6 @@
 {
- "version": "1.6.39",
- "date": "2026-11-13",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.39",
- "notes": "Przy starcie Scout sprawdza, czy może zapisywać dane w Dokumentach. Jeśli folder jest zablokowany, od razu pokazuje ostrzeżenie — nie dopiero po meczu."
+ "version": "1.6.43",
+ "date": "2026-11-14",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.43",
+ "notes": "Aktualizacja jednym kliknięciem i podpis aplikacji na Macu (jak w 1.6.42, która nie poszła do testerów — testy Windows były czerwone)."
 }
