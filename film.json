@@ -1,6 +1,6 @@
 {
- "version": "1.7.26",
- "date": "2026-11-13",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.26",
- "notes": "Windows: eksport klipów, pakietów i montaży używa teraz kodera wideo systemu (szybciej). Wymiana wbudowanego programu do wideo (ffmpeg) na wersję z właściwą licencją; w Ustawieniach → Pomoc techniczna → „Licencje” widać, jaka wersja działa."
+ "version": "1.7.33",
+ "date": "2026-11-14",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.33",
+ "notes": "Windows: zamknięcie Filmu w trakcie eksportu nie zostawia urwanego pliku (to samo co w 1.7.32 na Macu). Aktualizacja jednym kliknięciem jak w 1.7.32."
 }
