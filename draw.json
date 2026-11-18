@@ -1,6 +1,6 @@
 {
- "version": "0.28.10",
+ "version": "0.28.11",
  "date": "2026-11-18",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.10",
- "notes": "Raport przeciwnika: pełna tabela statystyk zawodników jest teraz na samym końcu raportu, pod wszystkim. Pierwsza piątka i rezerwowi są ułożeni według pozycji — od rozgrywającego do środkowego (w raporcie i w zakładce Zawodnicy)."
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.11",
+ "notes": "Zawodnicy przeciwnika: większe pola Mocne strony, Słabości, Jak go bronić i Jak go atakować — większy tekst, a pole rośnie razem z tym, co wpisujesz, więc całość widać bez przewijania. Aktualizacja na Windows bez czarnych okien: nowa wersja rozpakowuje się i instaluje w tle szybciej, a okno aplikacji pokazuje postęp i samo uruchamia się ponownie."
 }
