@@ -1,6 +1,6 @@
 {
- "version": "1.6.43",
- "date": "2026-11-14",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.43",
- "notes": "Aktualizacja jednym kliknięciem i podpis aplikacji na Macu (jak w 1.6.42, która nie poszła do testerów — testy Windows były czerwone)."
+ "version": "1.6.48",
+ "date": "2026-11-18",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/scout-v1.6.48",
+ "notes": "Aktualizacja na Windows bez czarnych okien: nowa wersja rozpakowuje się i instaluje w tle szybciej, a okno aplikacji pokazuje postęp i samo uruchamia się ponownie."
 }
