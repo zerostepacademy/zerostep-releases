@@ -1,6 +1,6 @@
 {
- "version": "0.28.8",
- "date": "2026-11-13",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.8",
- "notes": "Aktualizacja jednym kliknięciem: przycisk przy nowej wersji sam pobiera właściwą wersję (Mac albo Windows), instaluje ją i uruchamia aplikację ponownie — bez wchodzenia na GitHuba."
+ "version": "0.28.9",
+ "date": "2026-11-18",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/draw-v0.28.9",
+ "notes": "Playbook → „Wyślij trenerowi”: cały playbook (rozdziały i zagrywki) w jednym pliku dla drugiego trenera; on wczytuje go przez „Z pliku” — dostaje nowy playbook, jego zagrywki trafiają do biblioteki, nic się nie nadpisuje. Przeciwnik → Zawodnicy: przycisk „Kontuzjowany” z czerwonym krzyżem na karcie zawodnika — w raporcie (karty i tabele) przy nazwisku pojawia się czerwony krzyż jak na karetce z dopiskiem „kontuzjowany” / „injured”. Krzyż wszędzie, gdzie pojawia się zawodnik: tabele w raporcie (najlepsi strzelcy, za 3, zbiórki, wolne, własne), karta, lista, Kluczowi gracze w game planie, tabela Statystyk i jej PDF. Raport: nowa grupa „Oznaczenie zawodnika” z lewej — osobno Kluczowy gracz / Ważny gracz / Zadaniowiec (np. tylko kluczowi albo wszyscy). Raport PDF: nowa opcja „Wszyscy zawodnicy — pełna tabela statystyk” (Tabele statystyk) — cała tabela jak w Statystyki → Zawodnicy, z kolumnami, w których są liczby. Raport dla zawodników: bez napisu „GAME PLAN” u góry. W wersji angielskiej miejsce meczu „wyjazd” to „Away”, a „dom / u siebie / domowy” to „Home” (game plan i raport). W wersji angielskiej mecze w statystykach to „G” (games), a nie „M”."
 }
