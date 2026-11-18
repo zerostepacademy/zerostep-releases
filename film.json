@@ -1,6 +1,6 @@
 {
- "version": "1.7.33",
- "date": "2026-11-14",
- "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.33",
- "notes": "Windows: zamknięcie Filmu w trakcie eksportu nie zostawia urwanego pliku (to samo co w 1.7.32 na Macu). Aktualizacja jednym kliknięciem jak w 1.7.32."
+ "version": "1.7.39",
+ "date": "2026-11-18",
+ "url": "https://github.com/zerostepacademy/zerostep-releases/releases/tag/film-v1.7.39",
+ "notes": "Aktualizacja na Windows bez czarnych okien: nowa wersja rozpakowuje się i instaluje w tle szybciej, a okno aplikacji pokazuje postęp i samo uruchamia się ponownie."
 }
